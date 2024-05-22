@@ -1851,7 +1851,7 @@ p {
   background-image: url('https://web307.webvungtau.com/wp-content/themes/weboto-vn/img/texture.png');
   background-repeat: no-repeat;
   position: relative;
-  padding: 100px 0;
+  padding: 320px 0;
 
 }
 
@@ -3745,133 +3745,35 @@ img.image-car2 {
   transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 
-/* kích cỡ ô dat xe nhanh */
 
 
-.form-handle1{
+/* màu ô đặt xe nhanh */
+
+.form-control-1{
+
   color: #666;
   background-color: #333333;
   width: 200px;
   height: 44px;
-  
-}
 
-/* số lượng */
-.form-handle0{
-  width: 206px;
-  height: 44px;
-  position: relative;
-  left: -33px;
+
+}
+.form-control-2{
+
   color: #666;
   background-color: #333333;
-}
-/* chọn ngày */
-
-.form-handle110{
-  width: 206px;
+  width: 200px;
   height: 44px;
-  position: relative;
-  left: 3px;
-  color: #666;
-  background-color: #333333;
+
 }
 
+/* ghế thường */
 .form-handle02{
-  width: 206px;
-  height: 44px;
+
   color: #666;
   background-color: #333333;
-  position: relative;
-  left: -60px;
-  top:1px;
-}
-
-.form-handle03{
-  width: 206px;
+  width: 200px;
   height: 44px;
-  color: #666;
-  background-color: #333333;
-  position: relative;
-  top: -7px;
-}
-
-
-.form-handle04{
-  width: 206px;
-  height: 44px;
-  color: #666;
-  background-color: #333333;
-}
-
-.form-handle05{
-  width: 206px;
-  height: 44px;
-  color: #666;
-  background-color: #333333;
-  position: relative;
-  top: 2px;
-  left: -121px;
-
-}
-
-.form-handle000{
-  width: 206px;
-  height: 44px;
-  color: #666;
-  background-color: #333333;
-  position: relative;
-  top: -6px;
-  left: -14px;
-}
-
-/* chữ */
-
-.form-label1{
-  position: relative;
-  left: -56px;
-
-
-}
-
-.form-label2{
-  position: relative;
-  left: -111px;
-
-}
-
-.form-label3{
-  position: relative;
-  left: -194px;
-
-}
-
-.form-label4{
-  position: relative;
-  left: -95px;
-
-}
-.form-label5{
-  position: relative;
-  left: -53px;
-
-}
-
-.form-label6{
-  position: relative;
-  left: -53px;
-
-}
-
-.form-label7{
-  position: relative;
-  left: -41px;
-
-}
-
-
-.form-label8{
-  position: relative;
-  left: -51px;
 
 }
 
@@ -3886,40 +3788,6 @@ img.image-car2 {
 
 
 
-/* code css kích cỡ đặt xe nhanh ketthuc */
-.label-11 {
-  position: relative;
-  left: -17%;
-  width: 20%;
-  top: -70px;
-}
-
-.batdau-1 {
-  position: relative;
-  left: 31%;
-  width: 20%;
-  top: -70px;
-}
-
-
-
-.chondate-1 {
-  position: relative;
-  left: 1%;
-  width: 20%;
-  top: -70px;
-
-}
-
-
-.hinh1-col {
-  position: absolute;
-  left: 32%;
-  top: 61%;
-  width: 20%;
-}
-
-.col
 
 
 
