@@ -3812,6 +3812,61 @@ right: -65px;
 
 
 
+.form-control-05{
+
+  color: #666;
+  background-color: #333333;
+  width: 200px;
+  height: 44px;
+  position: relative;
+  right: -113px;
+top: -27px;
+}
+/* chọn ngày */
+
+.form-handle110{
+
+  color: #666;
+  background-color: #333333;
+  width: 200px;
+  height: 44px;
+  position: relative;
+  right: -113px;
+top: -27px;
+
+}
+
+/* chọn giờ */
+.form-handle04{
+
+  color: #666;
+  background-color: #333333;
+  width: 200px;
+  height: 44px;
+  position: relative;
+  right: -319px;
+  top: -87px;
+
+
+}
+
+
+
+
+
+
+
+
+.btn.btn-primary {
+  top: -145px;
+  height: 45px;
+  width: 196px;
+  right: -1103px;
+  position: relative;
+  color: white;
+}
+
+
 
 
 
