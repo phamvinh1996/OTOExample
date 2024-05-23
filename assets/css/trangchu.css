@@ -1758,7 +1758,9 @@ p {
 .section-heading06 h4 {
   position: relative;
   color: #f90;
-  padding-left: 47px;
+
+
+   padding-left: 187px; 
   display: flex;
   line-height: 16px;
   top: -37px;
@@ -1778,11 +1780,11 @@ p {
   top: 1%;
 
 }
-
+/* dau 3 ghach */
 .section-heading06 h4 span {
   top: 1px;
   position: absolute;
-  left: 30px;
+  left: 150px;
   transform: skew(-20deg, 0deg);
 }
 
@@ -1799,7 +1801,7 @@ p {
 }
 
 .section-online-booking h3 {
-  left: -654px;
+  left: -459px;
   position: relative;
   color: #e8dede;
   /* Màu chữ trắng */
@@ -1851,8 +1853,7 @@ p {
   background-image: url('https://web307.webvungtau.com/wp-content/themes/weboto-vn/img/texture.png');
   background-repeat: no-repeat;
   position: relative;
-  padding: 320px 0;
-
+  padding: 107px 0;
 }
 
 
@@ -3831,9 +3832,8 @@ top: -27px;
   width: 200px;
   height: 44px;
   position: relative;
-  right: -113px;
+  right: -96px;
 top: -27px;
-
 }
 
 /* chọn giờ */
@@ -3844,7 +3844,7 @@ top: -27px;
   width: 200px;
   height: 44px;
   position: relative;
-  right: -319px;
+  right: -306px;
   top: -87px;
 
 
@@ -3856,7 +3856,7 @@ top: -27px;
   top: -145px;
   height: 45px;
   width: 196px;
-  right: -1186px;
+  right: -1152px;
   position: relative;
   color: white;
 }
