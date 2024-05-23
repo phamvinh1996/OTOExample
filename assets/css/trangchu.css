@@ -232,9 +232,9 @@
 
   left: -3%;
   /* Điều chỉnh theo left của navbar */
-  width: 100%;
+  width: 101%;
   /* Chiều rộng 100% */
-  height: 98%;
+  height: 139%;
   /* Chiều cao 100% */
   background-color: inherit;
   /* Màu nền giống với navbar */
@@ -370,7 +370,7 @@ div#offcanvasDarkNavbar {
 
 .contact-nav {
   position: absolute;
-  top: -14%;
+  top: 4%;
   /* Adjust the distance from the top as needed */
   left: 98%;
   display: flex;
@@ -1733,9 +1733,6 @@ p {
     color: orange;
   } */
 
-
-
-
 .section-heading06 {
   position: relative;
 }
@@ -1743,8 +1740,6 @@ p {
 .section-heading06 h4 {
   position: relative;
   color: #f90;
-
-
    padding-left: 187px; 
   display: flex;
   line-height: 16px;
@@ -1763,7 +1758,6 @@ p {
   display: inline-block;
   position: absolute;
   top: 1%;
-
 }
 /* dau 3 ghach */
 .section-heading06 h4 span {
