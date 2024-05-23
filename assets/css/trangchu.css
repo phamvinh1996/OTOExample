@@ -3898,7 +3898,13 @@ top: 82px;
   margin-right: 8px;
 }
 
-
+/* kết thúc nút đặt xe nhanh */
+.input-group-text-6{
+position: relative;
+right: 10px;
+top: 87px;
+color: orange;
+}
 
 
 
