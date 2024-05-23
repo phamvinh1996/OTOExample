@@ -3817,7 +3817,8 @@ top: 82px;
   width: 200px;
   height: 44px;
   position: relative;
-  right: -313px;
+  right: -356px;
+
   top: 21px;
 
 
@@ -3836,9 +3837,66 @@ top: 82px;
 
 
 
+/* code Hinh Icon DAT XE NHANH */
+
+.icon-size {
+  right: -182px;
+  font-size: 24px;
+  color: #fb9501;
+  position: relative;
+  top: 86px;
+}
+.icon-size1 {
+  right: -191px;
+  font-size: 24px;
+  color: #fb9501;
+  position: relative;
+  top: 87px;
+}
+.icon-size0{
+  position: relative;
+  right: 10px;
+  top: 10px;
+  font-size: 24px;
+  color: #fb9501;
+
+}
 
 
+.input-group-text-2{
+  position: absolute;
+  right: -229px;
+  top: 121px;
+  font-size: 24px;
+  color: #fb9501;
+}
 
+.icon-color {
+  font-size: 24px;
+  right: -20px;
+  top: 116px;
+  position: relative;
+  color: #ff7f00;
+}
+
+
+.icon-style {
+  right: -108px;
+  top: 82px;
+  position: relative;
+  font-size: 24px;
+  color: #ff7f00;
+  margin-right: 8px;
+}
+
+.icon-style01 {
+  top: 21px;
+  right: -309px;
+  position: relative;
+  font-size: 24px;
+  color: #ff7f00;
+  margin-right: 8px;
+}
 
 
 
