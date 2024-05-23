@@ -1748,7 +1748,7 @@ p {
    padding-left: 187px; 
   display: flex;
   line-height: 16px;
-  top: -37px;
+  top: 45px;
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -1786,9 +1786,10 @@ p {
 }
 
 .section-online-booking h3 {
-  left: -459px;
+  left: -455px;
   position: relative;
   color: #e8dede;
+  top: 87px;
   /* Màu chữ trắng */
 }
 
@@ -3731,7 +3732,7 @@ img.image-car2 {
   height: 44px;
   right: -116px;
   position: relative;
-
+  top: 119px;
 }
 .form-control-2{
 
@@ -3739,8 +3740,9 @@ img.image-car2 {
   background-color: #333333;
   width: 200px;
   height: 44px;
-  right: -117px;
+  right: -121px;
   position: relative;
+  top: 119px;
 }
 
 /* ghế thường */
@@ -3752,7 +3754,7 @@ img.image-car2 {
   height: 44px;
   right: -119px;
     position: relative;
-
+    top: 121px;
 }
 
 .form-handle0{
@@ -3762,7 +3764,8 @@ img.image-car2 {
   width: 200px;
   height: 44px;
   position: relative;
-left: 63px;
+left: 66px;
+top: 118px;
 }
 
 .form-control-03{
@@ -3772,7 +3775,8 @@ left: 63px;
   width: 200px;
   height: 44px;
 position: relative;
-left: 10px;
+left: 16px;
+top: 117px;
 }
 .form-control-04{
 
@@ -3782,6 +3786,8 @@ left: 10px;
   height: 44px;
 position: relative;
 right: -65px;
+top: 117px;
+
 }
 
 
@@ -3805,8 +3811,8 @@ top: -27px;
   width: 200px;
   height: 44px;
   position: relative;
-  right: -96px;
-top: -27px;
+  right: -101px;
+top: 82px;
 }
 
 /* chọn giờ */
@@ -3817,8 +3823,8 @@ top: -27px;
   width: 200px;
   height: 44px;
   position: relative;
-  right: -306px;
-  top: -87px;
+  right: -313px;
+  top: 21px;
 
 
 }
@@ -3826,10 +3832,10 @@ top: -27px;
 
 
 .btn.btn-primary {
-  top: -145px;
+  top: -39px;
   height: 45px;
   width: 196px;
-  right: -1152px;
+  right: -1236px;
   position: relative;
   color: white;
 }
