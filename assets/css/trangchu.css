@@ -3825,7 +3825,7 @@ top: 82px;
 }
 
 
-
+/* 
 .btn.btn-primary {
   top: -39px;
   height: 45px;
@@ -3833,8 +3833,16 @@ top: 82px;
   right: -1335px;
   position: relative;
   color: white;
+} */
+.button1{
+  top: -39px;
+  height: 45px;
+  width: 196px;
+  right: -1241px;
+  position: relative;
+  color: #666;
+  background-color: #333333;
 }
-
 
 
 /* code Hinh Icon DAT XE NHANH */
@@ -3912,7 +3920,7 @@ color: orange;
   position: relative;
   top: 83px;
   right: -64px;
-  
+
 }
 
 
