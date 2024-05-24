@@ -3594,6 +3594,8 @@ button {
 
 /* màu chữ 123web footer */
 .footer-text {
+  top: 19px;
+  position: relative;
   color: white;
   text-align: center;
 }
