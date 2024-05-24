@@ -4245,16 +4245,7 @@ color: orange;
   animation: wheel-spin 2s infinite linear;
 }
 
-.light {
-  width: 10px;
-  height: 10px;
-  background-color: #ffff00;
-  border-radius: 50%;
-  position: absolute;
-  top: 50%;
-  right: 0;
-  animation: light-blink 1s infinite linear;
-}
+
 
 @keyframes car-move {
   0% {
