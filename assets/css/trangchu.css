@@ -2638,12 +2638,12 @@ h2 {
 
 /* dòng chữ 3 thông tin công ty */
 .table-heading03{
-color: white;
-font-size: 16px;
-margin-top: 0;
-position: relative;
-top: -50px;
-right: -23px;
+  color: white;
+  font-size: 16px;
+  margin-top: 0;
+  position: relative;
+  top: -21px;
+  right: 75px;
 }
 /* code loi ich dat xe hơn 1000 về dấu ghạch */
 
