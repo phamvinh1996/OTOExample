@@ -3740,17 +3740,17 @@ img.image-car2 {
 
 .form-control-1{
 
-  color: #666;
+  color: #909090;
   background-color: #333333;
   width: 200px;
   height: 44px;
-  right: -116px;
+  right: -111px;
   position: relative;
   top: 119px;
 }
 .form-control-2{
 
-  color: #666;
+  color: #909090;
   background-color: #333333;
   width: 200px;
   height: 44px;
@@ -3762,18 +3762,18 @@ img.image-car2 {
 /* ghế thường */
 .form-handle02{
 
-  color: #666;
+  color: white;
   background-color: #333333;
   width: 200px;
   height: 44px;
-  right: -119px;
+  right: -120px;
     position: relative;
     top: 121px;
 }
 
 .form-handle0{
 
-  color: #666;
+  color: white;
   background-color: #333333;
   width: 200px;
   height: 44px;
@@ -3784,7 +3784,7 @@ top: 118px;
 
 .form-control-03{
 
-  color: #666;
+  color: #909090;
   background-color: #333333;
   width: 200px;
   height: 44px;
@@ -3794,12 +3794,12 @@ top: 117px;
 }
 .form-control-04{
 
-  color: #666;
+  color: #909090;
   background-color: #333333;
   width: 200px;
   height: 44px;
 position: relative;
-right: -65px;
+right: -71px;
 top: 117px;
 
 }
@@ -3820,25 +3820,24 @@ top: -27px;
 
 .form-handle110{
 
-  color: #666;
+  color: #909090;
   background-color: #333333;
   width: 200px;
   height: 44px;
   position: relative;
-  right: -101px;
+  right: -110px;
 top: 82px;
 }
 
 /* chọn giờ */
 .form-handle04{
 
-  color: #666;
+  color: #909090;
   background-color: #333333;
   width: 200px;
   height: 44px;
   position: relative;
-  right: -356px;
-
+  right: -363px;
   top: 21px;
 
 
@@ -3860,7 +3859,7 @@ top: 82px;
   width: 196px;
   right: -1323px;
   position: relative;
-  color: #666;
+  color: white;
   background-color: #333333;
 }
 
