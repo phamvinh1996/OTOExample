@@ -1780,10 +1780,11 @@ p {
 }
 
 .section-online-booking h3 {
+  font-size: 30px;
   left: -506px;
   position: relative;
   color: #e8dede;
-  top: 87px;
+  top: 95px;
   /* Màu chữ trắng */
 }
 
