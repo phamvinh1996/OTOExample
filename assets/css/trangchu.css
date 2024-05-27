@@ -2639,11 +2639,11 @@ h2 {
 /* dòng chữ 3 thông tin công ty */
 .table-heading03{
 color: white;
-font-size: 30px;
+font-size: 16px;
 margin-top: 0;
 position: relative;
-top: -60px;
-right: -63px;
+top: -50px;
+right: -23px;
 }
 /* code loi ich dat xe hơn 1000 về dấu ghạch */
 
@@ -2792,12 +2792,14 @@ p {
   margin-left: 20px;
 }
 
-.table-heading {
-  color: white;
-  font-size: 30px;
-  margin-top: 0;
-  position: relative;
-  top: -60px;
+.table-heading01 {
+    color: white;
+    font-size: 30px;
+    margin-top: 0;
+    position: relative;
+    top: -60px;
+    left: -103px;
+    font-weight: bold;
 }
 
 .company-info01 {
@@ -2814,13 +2816,29 @@ p {
 
 }
 .company-info03{
-  right: -80px;
+  right: -65px;
   color: white;
   position: relative;
   top: -27px;
 
 
 }
+/* code hon 1000 kh tiet kiem chi phi */
+
+.table-heading02{
+  position: relative;
+  color: white;
+  font-size: 16px;
+  left: -80px;
+}
+
+
+
+
+
+
+
+
 
 .icon {
   width: 50px;
