@@ -4194,14 +4194,10 @@ color: orange;
   animation: car-move 2s infinite linear;
 }
 
-.car {
-  width: 50px;
-  height: 100%;
-  background-color: #ff8c00; /* Màu cam */
-  border-radius: 10px;
-  position: absolute;
-  top: 0;
-  left: 0;
+.car1{
+  position: relative;
+  right: -10px;
+  font-size: 100px;
 }
 
 .body {
