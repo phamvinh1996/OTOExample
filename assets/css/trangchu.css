@@ -2391,8 +2391,7 @@ h2 {
   color: black;
   font-family: "Space Grotesk", sans-serif;
   left: -88px;
-  position: relative;
-  
+  position: relative; 
 }
 
 /* dòng chữ xuống hàng get ridek*/
@@ -2612,11 +2611,18 @@ h2 {
 /*   lợi ích đặt xe hon 1000 */
 /* code icon  */
 .custom-size {
+  top: 65px;
   font-size: 71px;
+  position: relative;
+  left: -215px;
 }
 
 .custom-size01 {
+  top: -23px;
   font-size: 71px;
+  position: relative;
+  left: -425px;
+
 
 }
 
@@ -2624,9 +2630,21 @@ h2 {
   top: 76%;
   font-size: 82px;
   position: absolute;
-  right: 72px;
+  right: 500px;
 }
 
+
+
+
+/* dòng chữ 3 thông tin công ty */
+.table-heading03{
+color: white;
+font-size: 30px;
+margin-top: 0;
+position: relative;
+top: -60px;
+right: -63px;
+}
 /* code loi ich dat xe hơn 1000 về dấu ghạch */
 
 
@@ -2778,10 +2796,30 @@ p {
   color: white;
   font-size: 30px;
   margin-top: 0;
+  position: relative;
+  top: -60px;
 }
 
-.company-info {
+.company-info01 {
+  right: -64px;
   color: white;
+  position: relative;
+  top: -37px;
+}
+.company-info02{
+  right: -60px;
+  color: white;
+  position: relative;
+  top: -27px;
+
+}
+.company-info03{
+  right: -80px;
+  color: white;
+  position: relative;
+  top: -27px;
+
+
 }
 
 .icon {
