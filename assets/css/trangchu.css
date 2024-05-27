@@ -3403,6 +3403,7 @@ top: 145px;
 
 .description {
   position: absolute;
+  top:39px;
   left: 134px;
   color: white;
   font-family: "Space Grotesk", sans-serif;
