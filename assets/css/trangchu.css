@@ -1992,23 +1992,43 @@ p {
 /* CARD CHOOSEETAIXI */
 
 
-.nav-tabs .nav-link.active {
-  background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
 
+
+/* General Styles */
+.container {
+  margin-top: 2rem;
 }
 
-.tab-content {
-  padding: 1rem;
-  border: 1px solid #dee2e6;
-  border-top: none;
-  top: 87px;
+/* Nav Tabs */
+.nav-tabs {
+  border-bottom: none;
+  justify-content: center;
+  margin-bottom: 2rem;
+  /* right: -491px;
+  top: -222px; */
   position: relative;
-
 }
 
+.nav-link {
+  color: #333;
+  border: none;
+  border-radius: 0;
+  padding: 0.75rem 1.5rem;
+}
+
+.nav-link.active {
+  background-color: orange;
+  color: #fff;
+  border: none;
+}
+
+/* Cards */
 .card {
-  margin-bottom: 1rem;
+  border: none;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  margin-bottom: 2rem;
+  top: 117px;
+  position: relative;
 }
 
 .card-img-top {
@@ -2017,83 +2037,117 @@ p {
   object-fit: cover;
 }
 
-/* CODE CARD ẢNH CHOOSSEE NTAXXI */
+.card-body {
+  padding: 1.5rem;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+
+}
+
+.card-text {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.btn-primary {
+  background-color: orange;
+  border-color: orange;
+}
+
+.btn-primary:hover {
+  background-color: orange;
+  border-color: orange;
+}
+
+/* code HUYNHDAI */
 .huynhdai0{
 
+    clip-path: polygon(0 0, 100% 0, 100% 100%);
+  width: 330px;
+  height: 200%;
+}
+
+.huynhdai01{
+  position: relative;
+  width: 300px;
+  top: -151px;
+}
+
+.card-title01{
+
+  position: relative;
+  top: -158px;
+  right: -41px;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* HUYNHDAI ACCENT */
+
+.card-text{
+position: relative;
+top: -129px;
+    position: relative;
+}
+
+
+
+/* HUYNHDAI03 */
+.huynhdai03{
 
   clip-path: polygon(0 0, 100% 0, 100% 100%);
-  width: 359px;
+  width: 330px;
   height: 200%;
-
 }
-
-.nav-tabs {
-  right: -424px;
-  top: -323px;
+.huynhdai04{
   position: relative;
+  width: 300px;
+  top: -151px;
+
 }
 
 
-.tab-pane fade{
+.card-title02{
+
   position: relative;
-  left: 10px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*  TẠO CART ẢNH CHOOSEE TAXI */
-.cart-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  top: -158px;
+  right: -41px;
+  font-weight: bold;
 
 }
 
-.cart-item {
-  display: flex;
-  align-items: center;
-  background-color: #f1f1f1;
-  border-radius: 5px;
-  padding: 20px;
-}
 
-.cart-image {
-  margin-right: 20px;
-}
 
-.cart-image img {
-  width: 250px;
-  height: 150px;
-}
 
-.cart-details {
-  display: flex;
-  flex-direction: column;
-}
 
-.cart-title {
-  margin: 0;
-}
 
-.cart-price,
-.cart-fee,
-.cart-seats {
-  margin: 5px 0;
-  position: relative;
-  top: -166px;
-}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3342,8 +3396,11 @@ top: 145px;
 .card-text {
   color: rgb(9, 9, 11);
 }
-
-
+/* CARD TIN TỨC SỰ KIỆN */
+.card{
+  position: relative;
+  top: 10px;
+}
 
 /* màu chữ cam tin tức */
 
@@ -3398,9 +3455,16 @@ top: 145px;
 
 
 
+/* Tin tức sự kiện */
 
-
-
+.card p {
+  top: 1px;
+  position: relative;
+  text-align: left;
+  font-size: 16px;
+  line-height: 26px;
+  margin-left: 10px;
+}
 
 
 
@@ -3422,7 +3486,7 @@ top: 145px;
   transform: translateX(-70%);
   width: 100px;
   height: 50px;
-  top: 91%;
+  top: 90%;
 
 }
 
