@@ -1958,6 +1958,88 @@ p {
   opacity: 0.2;
 }
 
+/* button choossee taxi */
+
+
+/* 
+
+ .button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  position: relative;
+  right: -675px;
+
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.divider {
+  width: 2px;
+  height: 20px;
+  background-color: #ccc;
+}  */
+
+/* CARD CHOOSEETAIXI */
+
+
+.nav-tabs .nav-link.active {
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+
+}
+
+.tab-content {
+  padding: 1rem;
+  border: 1px solid #dee2e6;
+  border-top: none;
+  top: 87px;
+  position: relative;
+
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* CODE CARD ẢNH CHOOSSEE NTAXXI */
+.huynhdai0{
+
+
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+  width: 359px;
+  height: 200%;
+
+}
+
+.nav-tabs {
+  right: -424px;
+  top: -323px;
+  position: relative;
+}
+
+
+.tab-pane fade{
+  position: relative;
+  left: 10px;
+}
+
+
 
 
 
@@ -2009,6 +2091,8 @@ p {
 .cart-fee,
 .cart-seats {
   margin: 5px 0;
+  position: relative;
+  top: -166px;
 }
 
 

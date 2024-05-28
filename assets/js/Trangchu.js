@@ -402,3 +402,28 @@ document.getElementById("searchBtn").addEventListener("click", function() {
 
 
 /*  */
+
+
+
+
+const buttons = document.querySelectorAll('.button');
+const cards = document.querySelectorAll('.card');
+
+buttons.forEach((button) => {
+  button.addEventListener('click', () => {
+    const brand = button.dataset.brand;
+
+    // Xóa class 'active' từ các nút
+    buttons.forEach((btn) => btn.classList.remove('active'));
+    // Thêm class 'active' vào nút được nhấn
+    button.classList.add('active');
+
+    // Ẩn tất cả các card
+    cards.forEach((card) => card.classList.remove('visible'));
+    // Hiển thị card tương ứng với thương hiệu
+    const targetCard = document.querySelector(`.card.${brand}`);
+    if (targetCard) {
+      targetCard.classList.add('visible');
+    }
+  });
+});
