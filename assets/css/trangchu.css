@@ -3453,8 +3453,6 @@ top: 145px;
   opacity: 0.2;
 }
 
-
-
 /* Tin tức sự kiện */
 
 .card p {
@@ -3465,10 +3463,11 @@ top: 145px;
   line-height: 26px;
   margin-left: 10px;
 }
-
+ 
 .tintuc{
   position: relative;
   top: -21px;
+  
 }
 
 
