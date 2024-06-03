@@ -2080,7 +2080,7 @@ p {
 .card-title01{
 
   position: relative;
-  top: -158px;
+  top: -53px;
   right: -41px;
   font-weight: bold;
 }
@@ -2125,11 +2125,15 @@ p {
 
 
 
-
+/* button choossee taxxi */
 .btn.btn-primary {
   background-color: orange;
   height: 47px;
   width: 262px;
+
+  left: 12px;
+    top: 74px;
+    position: relative;
 }
 
 
@@ -2174,13 +2178,30 @@ top: 130px;
 
 }
 
+/* huynh dai chu chooosee taxi toyota */
 
-.card-title02{
+.huynhdai05{
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+  width: 330px;
+  height: 200%;
 
+}
+.huynhdai06{
   position: relative;
-  top: -158px;
-  right: -41px;
-  font-weight: bold;
+  width: 300px;
+  top: -151px;
+
+}
+
+.huynhdai07{
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+  width: 330px;
+  height: 200%;
+}
+.huynhdai08{
+  position: relative;
+  width: 300px;
+  top: -151px;
 
 }
 
@@ -2190,6 +2211,34 @@ top: 130px;
 
 
 
+
+.card-title02{
+
+  position: relative;
+  top: -30px;
+  right: -48px;
+  font-weight: bold;
+
+}
+
+ /* toyota taxi  */
+
+/* dong chu p huynh dai */
+.card-body {
+  top: -100px;
+  position: relative;
+}
+ /* phan cuoi toyota choosse card */
+.card-title6{
+  left: 23px;
+  position: relative;
+  top: -38px;
+}
+.card-title7{
+  left: 23px;
+  position: relative;
+  top: -38px;
+}
 
 
 
