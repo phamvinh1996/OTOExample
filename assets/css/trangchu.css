@@ -2080,7 +2080,7 @@ p {
 .card-title01{
 
   position: relative;
-  top: -53px;
+  top: 53px;
   right: -41px;
   font-weight: bold;
 }
@@ -2132,7 +2132,7 @@ p {
   width: 262px;
 
   left: 12px;
-    top: 74px;
+    top: 206px;
     position: relative;
 }
 
@@ -2215,7 +2215,7 @@ top: 130px;
 .card-title02{
 
   position: relative;
-  top: -30px;
+  top: 50px;
   right: -48px;
   font-weight: bold;
 
@@ -2225,19 +2225,19 @@ top: 130px;
 
 /* dong chu p huynh dai */
 .card-body {
-  top: -100px;
+  top: -200px;
   position: relative;
 }
  /* phan cuoi toyota choosse card */
 .card-title6{
   left: 23px;
   position: relative;
-  top: -38px;
+  top: 62px;
 }
 .card-title7{
   left: 23px;
   position: relative;
-  top: -38px;
+  top: 62px;
 }
 
 
@@ -3569,7 +3569,6 @@ top: 145px;
   top: -21px;
   
 }
-
 
 
 
