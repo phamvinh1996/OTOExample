@@ -1340,6 +1340,8 @@ p {
   margin-top: -23px;
   font-family: "Space Grotesk", sans-serif;
   color: rgb(221, 221, 221);
+
+
 }
 
 .container {
@@ -1373,6 +1375,7 @@ p {
   font-size: 16px;
   line-height: 26px;
   margin-left: 10px;
+
 }
 
 .button {
@@ -1393,9 +1396,16 @@ p {
 
 /* code css what we offter */
 
+.text1{
 
+  position: relative;
+  top: 1px;
+}
 
-
+.vuong1{
+  position: relative;
+  top: 10px;
+}
 
 
 /* tạo css nút chuyển trang  dịch vụ nổi bật*/
@@ -2080,7 +2090,7 @@ p {
 .card-title01{
 
   position: relative;
-  top: 53px;
+  top: 27px;
   right: -41px;
   font-weight: bold;
 }
@@ -2215,7 +2225,7 @@ top: 130px;
 .card-title02{
 
   position: relative;
-  top: 50px;
+  top: 32px;
   right: -48px;
   font-weight: bold;
 
@@ -2232,12 +2242,12 @@ top: 130px;
 .card-title6{
   left: 23px;
   position: relative;
-  top: 62px;
+  top: 32px;
 }
 .card-title7{
   left: 23px;
   position: relative;
-  top: 62px;
+  top: 32px;
 }
 
 
@@ -3556,14 +3566,17 @@ top: 145px;
 /* Tin tức sự kiện */
 /* chữ */
 .card p {
-  top: 95px;
+  top: 20px;
   position: relative;
   text-align: left;
   font-size: 16px;
   line-height: 26px;
   margin-left: 10px;
 }
- 
+
+
+
+
 .tintuc{
   position: relative;
   top: -21px;
@@ -3587,7 +3600,7 @@ top: 145px;
   transform: translateX(-70%);
   width: 100px;
   height: 50px;
-  top: 147%;
+  top: 20%;
 
 }
 
@@ -3639,6 +3652,22 @@ top: 145px;
   top: 93px;
   color: #000;
 }
+
+
+/* tintuc  */
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*  */
 
