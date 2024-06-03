@@ -3635,7 +3635,11 @@ top: 145px;
 
 
 /* chữ card  */
-
+.card-title000{
+  position: relative;
+  top: 93px;
+  color: #000;
+}
 
 /*  */
 
