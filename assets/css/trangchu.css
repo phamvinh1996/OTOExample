@@ -2093,8 +2093,45 @@ p {
   .nav-pills {
     left: 806px;
     position: relative;
-   
+
 }
+
+
+/* màu chữ choossee taxi */
+/* Set the background color and text color for the active button */
+.nav-pills .nav-link.active {
+  color: #999; /* White text color */
+}
+
+/* Set the background color and text color for the inactive buttons */
+.nav-pills .nav-link {
+  color: #999; /* White text color */
+  border-radius: 0; /* Remove the default rounded corners */
+}
+
+/* Add a hover effect to the inactive buttons */
+.nav-pills .nav-link:hover {
+  color: #999;
+}
+
+/*  */
+/* nút button bấm vào  choosee taxi */
+
+.nav-link1{
+  background-color: white;
+  color: #999;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
