@@ -2126,7 +2126,14 @@ p {
 
 
 
+.btn.btn-primary {
+  background-color: orange;
+  height: 47px;
+  width: 262px;
+}
 
+
+/* chu p Huynhdai */
 
 
 
@@ -2146,9 +2153,9 @@ p {
 /* HUYNHDAI ACCENT */
 
 .card-text{
-position: relative;
-top: -129px;
-    position: relative;
+position: absolute;
+top: 130px;
+  
 }
 
 
