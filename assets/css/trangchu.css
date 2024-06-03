@@ -3490,6 +3490,7 @@ top: 145px;
 /* code tạo tin tức sự kiện chữ màu */
 .card-title {
   color: rgb(14, 11, 11);
+
 }
 
 .card-text {
@@ -3553,9 +3554,9 @@ top: 145px;
 }
 
 /* Tin tức sự kiện */
-
+/* chữ */
 .card p {
-  top: 1px;
+  top: 95px;
   position: relative;
   text-align: left;
   font-size: 16px;
@@ -3587,7 +3588,7 @@ top: 145px;
   transform: translateX(-70%);
   width: 100px;
   height: 50px;
-  top: 90%;
+  top: 147%;
 
 }
 
@@ -3633,8 +3634,7 @@ top: 145px;
 
 
 
-
-
+/* chữ card  */
 
 
 /*  */
