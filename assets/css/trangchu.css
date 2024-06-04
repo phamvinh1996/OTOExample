@@ -1408,6 +1408,25 @@ p {
 }
 
 
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* tạo css nút chuyển trang  dịch vụ nổi bật*/
 .card-navigation {
   position: absolute;
@@ -3600,7 +3619,7 @@ top: 145px;
   transform: translateX(-70%);
   width: 100px;
   height: 50px;
-  top: 201%;
+  top: 150%;
 
 }
 
@@ -3655,11 +3674,18 @@ top: 145px;
 
 
 /* tintuc  */
+/* chỉnh chữ lên xuống tin tức */
 
 
-
-
-
+.card-text-0 {
+  font-family: Arial, sans-serif; /* Thiết lập font chữ */
+  font-size: 16px; /* Thiết lập kích thước chữ */
+  color: #333333; /* Thiết lập màu chữ */
+  line-height: 1.5; /* Thiết lập độ cao dòng */
+  text-align: left; /* Thiết lập căn chỉnh nội dung */
+  margin-top: 173px; /* Tạo khoảng cách trên */
+  margin-bottom: 10px; /* Tạo khoảng cách dưới */
+}
 
 
 
