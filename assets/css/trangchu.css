@@ -2103,6 +2103,61 @@ left: -128px;
   color: #fff;
   border: none;
 }
+/* card ảnh  choosseetaxi */
+
+.gia1{
+  position: relative;
+  right: -79px;
+}
+.gia2{
+  position: relative;
+  right: -110px;
+}
+.gia3{
+  position: relative;
+  right: -110px;
+}
+
+.gia4{
+  position: relative;
+  right: -110px;
+}
+
+.gia5{
+  position: relative;
+  right: -139px; 
+}
+
+.gia6{
+  position: relative;
+  right: -139px; 
+}
+.gia7{
+  position: relative;
+  right: -103px; 
+}
+.gia8{
+  position: relative;
+  right: -133px; 
+}
+.gia9{
+
+  position: relative;
+  right: -133px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Cards */
 .card {
