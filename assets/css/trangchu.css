@@ -2155,7 +2155,7 @@ p {
 
 
 /* button choossee taxxi */
-.btn.btn-primary1 {
+/* .btn.btn-primary1 {
    background-color: orange;
   height: 47px;
   width: 262px;
@@ -2166,8 +2166,27 @@ p {
     position: relative; 
 
 
-  }
+  } */
 
+
+  .btn.btn-primary1 {
+    background-color:orange ;
+    height: 47px;
+    width: 262px;
+    position: relative;
+    left: 12px;
+    top: 170px;
+    
+    /* Thêm màu nền đen khi hover */
+    background-color: orange;
+    color: white; /* Thay đổi màu chữ thành trắng */
+    transition: background-color 0.3s ease; /* Thêm hiệu ứng chuyển đổi */
+  }
+  
+  .btn.btn-primary1:hover {
+    background-color: black; /* Chuyển lại màu cam khi hover */
+    color: white; /* Chuyển lại màu chữ thành đen */
+  }
 
 /* chu p Huynhdai */
 
