@@ -2155,15 +2155,18 @@ p {
 
 
 /* button choossee taxxi */
-.btn.btn-primary {
-  background-color: orange;
+.btn.btn-primary1 {
+   background-color: orange;
   height: 47px;
   width: 262px;
 
+  color: white;
   left: 12px;
     top: 170px;
-    position: relative;
-}
+    position: relative; 
+
+
+  }
 
 
 /* chu p Huynhdai */
