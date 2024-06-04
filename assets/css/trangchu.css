@@ -732,17 +732,41 @@ div#offcanvasDarkNavbar {
 
 /*  */
 /* button */
-.btn-view-more {
+/* .btn-view-more {
   float: left;
   left: 1%;
   width: 19%;
   height: 48px;
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ff9900;
+  background-color: #ff9900; */
   /* Màu cam */
-  color: white;
+  /* color: white;
   text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  position: absolute;
+  margin-top: 72px;
+} */
+/* 
+.btn-view-more:hover {
+  background-color: darkorange;
+  
+} */
+/* NÚT LIÊN HỆ BOOK YOUR */
+.btn-view-more {
+  background-color: orange;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  float: left;
+  left: 1%;
+  width: 19%;
   border-radius: 5px;
   font-size: 16px;
   position: absolute;
@@ -750,9 +774,13 @@ div#offcanvasDarkNavbar {
 }
 
 .btn-view-more:hover {
-  background-color: darkorange;
-  /* Màu cam tối khi hover */
+  background-color: black;
+  color: orange;
 }
+
+
+
+
 
 /* code css chuyển động qua trang book */
 .carousel-caption {
