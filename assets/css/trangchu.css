@@ -208,13 +208,13 @@
 
 /* Tạo css thanh Nav ngang Trang chủ, ... */
 .navbar-yellow {
-  left: -11%;
+  left: -8%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #ff9900;
   padding: 10px;
-  width: 60%;
+  width: 37%;
 
 
 
