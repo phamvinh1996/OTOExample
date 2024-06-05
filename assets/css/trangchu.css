@@ -1168,8 +1168,7 @@ img {
 .form-group {
   margin-left: 70px; /* Adjust the value as needed */
 
-
-  top: 93px;
+  top: 55px;
   position: relative;
 }
 
@@ -1210,10 +1209,13 @@ p {
 
 .about-us {
   position: relative;
-  left: -37%;
+  left: -33%;
   color: black;
-  font-size: 27px;
+  font-size: 33px;
   font-weight: bold;
+
+  margin-bottom: 20px;
+  line-height: 42px;
 
 }
 
