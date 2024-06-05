@@ -816,7 +816,32 @@ color: #666;
 .carousel-item.active .carousel-caption {
   opacity: 1;
 
+  
 }
+/*  */
+
+
+
+
+/* CODE THE BOOK 1/2 */
+.carousel-indicators li:after {
+  content: "/2";
+  font-size: 16px;
+  color: #666666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
