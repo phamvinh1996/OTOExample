@@ -265,8 +265,13 @@
 /* thanh nav chữ */
 /* dấu ghạch chân thanh nav chữ */
 
-
+/* chữ trên thanh nav màu cam */
 .menu li a {
+
+  right: -43px;
+    top: 8px;
+    position: relative;
+
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
