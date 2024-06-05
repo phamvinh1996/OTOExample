@@ -4278,6 +4278,9 @@ img.image-car2 {
   justify-content: flex-end;
   align-self: flex-end;
   position: relative;
+
+  top: 84px;
+  position: relative;
 }
 
 .ceo {
