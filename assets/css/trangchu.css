@@ -1156,6 +1156,33 @@ img {
 
 /* thẻ chữ book you */
 
+/* Khoảng cách Giua anh va chu VE CHUNG TOI */
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 30px; /* Adjust the value as needed */
+}
+
+.form-group {
+  margin-left: 70px; /* Adjust the value as needed */
+
+
+  top: 93px;
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
