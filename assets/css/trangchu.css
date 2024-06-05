@@ -83,7 +83,7 @@
   position: relative;
   left: 250px;
   font-size: 15px;
-  font-weight: bold;
+ 
 }
 
 
@@ -159,7 +159,7 @@
   color: #929292;
   position: relative;
   left: 2%;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
   letter-spacing: -1.5px;
   display: block;
@@ -167,32 +167,32 @@
 
 .text1 {
   font-size: 13px;
-  color: black;
+  color: #252525;
   position: relative;
   left: -21%;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: bold;
-  color: black;
+  
 }
 
 .text02 {
-  font-size: 11px;
-  color: black;
+  
+  color: #252525;
   position: relative;
   left: -13%;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: bold;
-  color: black;
+  
 }
 
 .text03 {
-  font-size: 11px;
-  color: black;
+  font-size: 15px;
+  color: #252525;
   position: relative;
   left: -14%;
-  font-size: 13px;
+  
   font-weight: bold;
-  color: black;
+  
 }
 
 /* cỡ icon hình điện thoại */
