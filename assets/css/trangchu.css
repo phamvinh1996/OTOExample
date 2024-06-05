@@ -208,7 +208,7 @@
 
 /* Tạo css thanh Nav ngang Trang chủ, ... */
 .navbar-yellow {
-  left: -16%;
+  left: -11%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -219,7 +219,7 @@
 
 
   position: relative;
-  top: 31px;
+  top: 43px;
 
 }
 
