@@ -1901,10 +1901,10 @@ left: -128px;
 .section-heading06 h4 {
   position: relative;
   color: #f90;
-   padding-left: 187px; 
+   padding-left: 63px; 
   display: flex;
   line-height: 16px;
-  top: 45px;
+  top: -74px;
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -1922,9 +1922,9 @@ left: -128px;
 }
 /* dau 3 ghach */
 .section-heading06 h4 span {
-  top: 1px;
+  top: -1px;
   position: absolute;
-  left: 150px;
+  left: 30px;
   transform: skew(-20deg, 0deg);
 }
 
@@ -1942,10 +1942,10 @@ left: -128px;
 
 .section-online-booking h3 {
   font-size: 30px;
-  left: -506px;
+  left: -557px;
   position: relative;
   color: #e8dede;
-  top: 95px;
+  top: -15px;
   /* Màu chữ trắng */
 }
 
@@ -2011,7 +2011,7 @@ left: -128px;
 
 .input-group-text-2 {
   position: absolute;
-  left: 58%;
+  left: -103%;
   top: 51%;
 }
 
@@ -2035,8 +2035,8 @@ left: -128px;
 
 .input-group-text-6 {
   position: absolute;
-  left: 95%;
-  top: 51%;
+  left: 3%;
+  top: -6%;
 }
 
 .input-group-text-7 {
@@ -4385,21 +4385,21 @@ img.image-car2 {
 
   color: #909090;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
-  right: -111px;
+  width: 251px;
+  height: 48px;
+  right: -16px;
   position: relative;
-  top: 119px;
+  top: 1px;
 }
 .form-control-2{
 
   color: #909090;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
-  right: -121px;
+  width: 251px;
+  height: 48px;
+  right: -25px;
   position: relative;
-  top: 119px;
+  top: 1px;
 }
 
 /* ghế thường */
@@ -4407,43 +4407,43 @@ img.image-car2 {
 
   color: white;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
-  right: -120px;
+  width: 251px;
+  height: 48px;
+  right: -32px;
     position: relative;
-    top: 121px;
+    top: 3px;
 }
 
 .form-handle0{
 
   color: white;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
+  width: 251px;
+  height: 48px;
   position: relative;
-left: 66px;
-top: 118px;
+left: -33px;
+top: -21px;
 }
 
 .form-control-03{
 
   color: #909090;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
+  width: 251px;
+  height: 48px;
 position: relative;
-left: 16px;
-top: 117px;
+left: -102px;
+top: -21px;
 }
 .form-control-04{
 
   color: #909090;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
+  width: 251px;
+  height: 48px;
 position: relative;
-right: -71px;
-top: 117px;
+right: 30px;
+top: -20px;
 
 }
 
@@ -4465,11 +4465,11 @@ top: -27px;
 
   color: #909090;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
+  width: 251px;
+  height: 48px;
   position: relative;
-  right: -178px;
-top: 112px;
+  right: -80px;
+top: -22px;
 }
 
 /* chọn giờ */
@@ -4477,11 +4477,11 @@ top: 112px;
 
   color: #909090;
   background-color: #333333;
-  width: 200px;
-  height: 44px;
+  width: 251px;
+  height: 48px;
   position: relative;
-  right: -430px;
-  top: 41px;
+  right: -350px;
+  top: -112px;
 
 
 }
@@ -4497,10 +4497,10 @@ top: 112px;
   color: white;
 } */
 .button1{
-  top: -9px;
-  height: 45px;
-  width: 196px;
-  right: -1410px;
+  top: -200px;
+  height: 48px;
+  width: 251px;
+  right: -1270px;
   position: relative;
   color: white;
   background-color: #333333;
@@ -4510,18 +4510,18 @@ top: 112px;
 /* code Hinh Icon DAT XE NHANH */
 
 .icon-size {
-  right: -182px;
+  right: -121px;
   font-size: 24px;
   color: #fb9501;
   position: relative;
-  top: 86px;
+  top: -30px;
 }
 .icon-size1 {
-  right: -191px;
+  right: -126px;
   font-size: 24px;
   color: #fb9501;
   position: relative;
-  top: 87px;
+  top: -32px;
 }
 .icon-size0{
   position: relative;
@@ -4535,24 +4535,24 @@ top: 112px;
 
 .input-group-text-2{
   position: absolute;
-  right: -229px;
-  top: 121px;
+  right: -516px;
+  top: 15px;
   font-size: 24px;
   color: #fb9501;
 }
 
 .icon-color {
   font-size: 24px;
-  right: -20px;
-  top: 116px;
+  right:  79px;
+  top: -15px;
   position: relative;
   color: #ff7f00;
 }
 
 
 .icon-style {
-  right: -108px;
-  top: 82px;
+  right: -37px;
+  top: -49px;
   position: relative;
   font-size: 24px;
   color: #ff7f00;
@@ -4560,8 +4560,8 @@ top: 112px;
 }
 
 .icon-style01 {
-  top: 49px;
-  right: -383px;
+  top: -147px;
+  right: -457px;
   position: relative;
   font-size: 24px;
   color: #ff7f00;
@@ -4570,9 +4570,9 @@ top: 112px;
 
 /* kết thúc nút đặt xe nhanh */
 .input-group-text-6{
-position: relative;
-right: 10px;
-top: 87px;
+position: absolute;
+right: -180px;
+top: -2px;
 color: orange;
 }
 
@@ -4580,8 +4580,8 @@ color: orange;
   font-size: 24px;
   color: orange;
   position: relative;
-  top: 110px;
-  right: -134px;
+  top: -56px;
+  right: -176px;
 
 }
 
