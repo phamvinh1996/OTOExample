@@ -509,7 +509,7 @@ color: #666;
   height: 300%;
 }
  */
-
+/* code css tạo nút search thanh nav */
  .modal {
   /* Position the modal in the center of the page */
   position: fixed;
@@ -539,7 +539,7 @@ color: #666;
 }
 
 
-
+/* kích thước nút thanh search */
 .modal-content {
   top: 530px;
   position: relative;
@@ -2900,6 +2900,9 @@ p {
 .image-button {
   margin: 0 20px;
 
+
+  left: -28px;
+  position: relative;
 }
 
 .car-image {
