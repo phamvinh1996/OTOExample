@@ -495,25 +495,55 @@ color: #666;
 
 
 
-.modal {
-  /* position: absolute; */
-  /* top: 50%; */
-  left: 10%;
+/* .modal {
+
+  left: 10%; */
   /* Đặt modal vào giữa trang ngang */
-  width: 80%;
+  /* width: 80%;
   height: 330%;
   z-index: 9999;
 
 
+  background-color: white;
+  width: 100%;
+  height: 300%;
+}
+ */
+
+ .modal {
+  /* Position the modal in the center of the page */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(1%, -59%);
+
+  /* Set the size of the modal */
+  width: 80%;
+  height: 80%;
+
+  /* Add a z-index to ensure the modal is on top of other elements */
+  z-index: 9999;
+
+  /* Add a white background */
+  background-color: #f0f0f0;
+
+  /* Add some padding to the modal content */
+  padding: 20px;
+
+  /* Add a border and border-radius to the modal */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+  /* Add a box-shadow to the modal */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 
 
-
-
-
-
-
+.modal-content {
+  top: 530px;
+  position: relative;
+}
 
 
 
