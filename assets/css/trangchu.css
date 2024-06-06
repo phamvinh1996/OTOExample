@@ -513,6 +513,11 @@ color: #666;
 
 
 
+
+
+
+
+
 /* trang cuộn xuống */
 /* CODE TẠO THANH CUỘN XUỐNG */
 
@@ -3113,26 +3118,26 @@ h2 {
 /*   lợi ích đặt xe hon 1000 */
 /* code icon  */
 .custom-size {
-  top: 65px;
+  top: 107px;
   font-size: 71px;
   position: relative;
-  left: -215px;
+  left: -196px;
 }
 
 .custom-size01 {
   top: -23px;
   font-size: 71px;
   position: relative;
-  left: -425px;
+  left: -375px;
 
 
 }
 
 .custom-size02 {
-  top: 76%;
+  top: 80%;
   font-size: 82px;
   position: absolute;
-  right: 500px;
+  right: 434px;
 }
 
 
@@ -3145,7 +3150,7 @@ h2 {
   margin-top: 0;
   position: relative;
   top: -21px;
-  right: 75px;
+  right: 45px;
 }
 /* code loi ich dat xe hơn 1000 về dấu ghạch */
 
@@ -3328,7 +3333,7 @@ p {
   position: relative;
   color: white;
   font-size: 16px;
-  left: -80px;
+  left: -49px;
 }
 
 
