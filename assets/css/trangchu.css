@@ -525,13 +525,13 @@ color: #666;
   z-index: 9999;
 
   /* Add a white background */
-  background-color: #f0f0f0;
+  background-color: #ffffff;
 
   /* Add some padding to the modal content */
   padding: 20px;
 
   /* Add a border and border-radius to the modal */
-  border: 1px solid #ccc;
+  border: 1px solid #ffffff;
   border-radius: 5px;
 
   /* Add a box-shadow to the modal */
