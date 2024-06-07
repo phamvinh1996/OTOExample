@@ -1948,7 +1948,7 @@ left: -128px;
    padding-left: 63px; 
   display: flex;
   line-height: 16px;
-  top: -74px;
+  top: 69px;
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -1986,10 +1986,10 @@ left: -128px;
 
 .section-online-booking h3 {
   font-size: 30px;
-  left: -557px;
+  left: -601px;
   position: relative;
   color: #e8dede;
-  top: -15px;
+  top: 117px;
   /* Màu chữ trắng */
 }
 
@@ -4434,9 +4434,9 @@ img.image-car2 {
   background-color: #333333;
   width: 251px;
   height: 48px;
-  right: -16px;
+  right: -19px;
   position: relative;
-  top: 1px;
+  top: 145px;
 }
 .form-control-2{
 
@@ -4444,9 +4444,9 @@ img.image-car2 {
   background-color: #333333;
   width: 251px;
   height: 48px;
-  right: -25px;
+  right: -9px;
   position: relative;
-  top: 1px;
+  top: 144px;
 }
 
 /* ghế thường */
@@ -4456,9 +4456,9 @@ img.image-car2 {
   background-color: #333333;
   width: 251px;
   height: 48px;
-  right: -32px;
+  right: 1px;
     position: relative;
-    top: 3px;
+    top: 145px;
 }
 
 .form-handle0{
@@ -4468,8 +4468,8 @@ img.image-car2 {
   width: 251px;
   height: 48px;
   position: relative;
-left: -33px;
-top: -21px;
+left: -35px;
+top: 118px;
 }
 
 .form-control-03{
@@ -4479,8 +4479,8 @@ top: -21px;
   width: 251px;
   height: 48px;
 position: relative;
-left: -102px;
-top: -21px;
+left: -122px;
+top: 118px;
 }
 .form-control-04{
 
@@ -4489,8 +4489,8 @@ top: -21px;
   width: 251px;
   height: 48px;
 position: relative;
-right: 30px;
-top: -20px;
+right: 64px;
+top: 117px;
 
 }
 
@@ -4515,8 +4515,8 @@ top: -27px;
   width: 251px;
   height: 48px;
   position: relative;
-  right: -80px;
-top: -22px;
+  right: -23px;
+top: 58px;
 }
 
 /* chọn giờ */
@@ -4527,8 +4527,8 @@ top: -22px;
   width: 251px;
   height: 48px;
   position: relative;
-  right: -350px;
-  top: -112px;
+  right: -293px;
+  top: -33px;
 
 
 }
@@ -4544,10 +4544,10 @@ top: -22px;
   color: white;
 } */
 .button1{
-  top: -200px;
+  top: -124px;
   height: 48px;
   width: 251px;
-  right: -1354px;
+  right: -1216px;
   position: relative;
   color: white;
   background-color: #333333;
@@ -4561,14 +4561,14 @@ top: -22px;
   font-size: 24px;
   color: #fb9501;
   position: relative;
-  top: -30px;
+  top: 109px;
 }
 .icon-size1 {
-  right: -126px;
+  right: -108px;
   font-size: 24px;
   color: #fb9501;
   position: relative;
-  top: -32px;
+  top: 104px;
 }
 .icon-size0{
   position: relative;
@@ -4582,8 +4582,8 @@ top: -22px;
 
 .input-group-text-2{
   position: absolute;
-  right: -516px;
-  top: 15px;
+  right: -478px;
+  top: 151px;
   font-size: 24px;
   color: #fb9501;
 }
@@ -4591,15 +4591,15 @@ top: -22px;
 .icon-color {
   font-size: 24px;
   right:  79px;
-  top: -15px;
+  top: 121px;
   position: relative;
   color: #ff7f00;
 }
 
 
 .icon-style {
-  right: -37px;
-  top: -49px;
+  right: -3px;
+  top: 80px;
   position: relative;
   font-size: 24px;
   color: #ff7f00;
@@ -4607,8 +4607,8 @@ top: -22px;
 }
 
 .icon-style01 {
-  top: -147px;
-  right: -457px;
+  top: -72px;
+  right: -394px;
   position: relative;
   font-size: 24px;
   color: #ff7f00;
@@ -4618,8 +4618,8 @@ top: -22px;
 /* kết thúc nút đặt xe nhanh */
 .input-group-text-6{
 position: absolute;
-right: -180px;
-top: -2px;
+right: -110px;
+top: 133px;
 color: orange;
 }
 
@@ -4627,8 +4627,8 @@ color: orange;
   font-size: 24px;
   color: orange;
   position: relative;
-  top: -56px;
-  right: -176px;
+  top: 18px;
+  right: -126px;
 
 }
 
