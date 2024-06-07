@@ -332,6 +332,8 @@ div#offcanvasDarkNavbar {
   position: absolute;
   top: 19%;
   left: 47%;
+  filter: brightness(0) invert(1); /* Chuyển biểu tượng sang màu trắng */
+
 }
 
 /* nút search  nut tim kiem*/
