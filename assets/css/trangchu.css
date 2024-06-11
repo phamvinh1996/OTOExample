@@ -3817,6 +3817,14 @@ top: 145px;
 .card{
   position: relative;
   top: 10px;
+
+  width: 367px; /* Chiều rộng của card */
+  height: 300px; /* Chiều dài của card */
+  border: 1px solid #ddd; /* Đường viền card */
+  border-radius: 4px; /* Bo góc card */
+  overflow: hidden; /* Ẩn phần nội dung vượt khỏi kích thước card */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Bóng đổ cho card */
+  padding: 1px; /* Khoảng cách nội dung và card */
 }
 
 /* màu chữ cam tin tức */
