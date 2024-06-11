@@ -1653,7 +1653,8 @@ p {
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 15px;
+  top: 8px;
 position: relative;
 left: -128px;
 
@@ -2231,6 +2232,7 @@ left: -128px;
 .gia1{
   position: relative;
   right: -79px;
+  
 }
 .gia2{
   position: relative;
@@ -2452,12 +2454,6 @@ left: -128px;
   }
 
 /* chu p Huynhdai */
-
-
-
-
-
-
 
 
 
@@ -3818,13 +3814,6 @@ top: 145px;
   position: relative;
   top: 10px;
 
-  width: 367px; /* Chiều rộng của card */
-  height: 300px; /* Chiều dài của card */
-  border: 1px solid #ddd; /* Đường viền card */
-  border-radius: 4px; /* Bo góc card */
-  overflow: hidden; /* Ẩn phần nội dung vượt khỏi kích thước card */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Bóng đổ cho card */
-  padding: 1px; /* Khoảng cách nội dung và card */
 }
 
 /* màu chữ cam tin tức */
