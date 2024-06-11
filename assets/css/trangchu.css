@@ -2438,7 +2438,7 @@ left: -128px;
     width: 262px;
     position: relative;
     left: 12px;
-    top: 170px;
+    top: 34px;
     
     /* Thêm màu nền đen khi hover */
     background-color: orange;
@@ -2533,8 +2533,11 @@ top: 130px;
 
 /* dong chu p huynh dai */
 .card-body {
-  top: -170px;
+  top: -179px;
   position: relative;
+
+  height: 176px;
+  width: 337px;
 }
  /* phan cuoi toyota choosse card */
 .card-title6{
@@ -3809,9 +3812,14 @@ top: 145px;
 }
 /* CARD TIN TỨC SỰ KIỆN */
 .card{
-  position: relative;
+  position: absolute;
   top: 10px;
 
+  width: 365px;
+
+
+
+  
 }
 
 /* màu chữ cam tin tức */
@@ -3902,7 +3910,7 @@ top: 145px;
   transform: translateX(-70%);
   width: 100px;
   height: 50px;
-  top: 141%;
+  top: 195%;
 
 }
 
