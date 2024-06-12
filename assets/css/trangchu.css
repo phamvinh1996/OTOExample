@@ -698,7 +698,7 @@ color: #666;
 
 /* dùng thư viện di chuyển trang book you */
 .carousel {
-  width: 110%;
+  /* width: 110%; */
   height: 640px;
 }
 
@@ -833,7 +833,7 @@ color: #666;
   transition: background-color 0.3s ease, color 0.3s ease;
   float: left;
   left: 1%;
-  width: 19%;
+  width: 20%;
   border-radius: 5px;
   font-size: 16px;
   position: absolute;
@@ -942,7 +942,7 @@ color: #666;
   position: absolute;
   width: 675px;
   height: auto;
-  right: 100%;
+  /* right: 100%; */
   top: -99px;
 
   opacity: 0;
@@ -1451,7 +1451,7 @@ p {
   background-position: left;
   background-repeat: no-repeat;
   height: 500px;
-  width: 1900px;
+  /* width: 1900px; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -2030,7 +2030,7 @@ left: -128px;
 .section-online-booking .img-car {
   position: absolute;
   width: 653px;
-  left: -257px;
+  left: -470px;
   top: 1px;
 }
 
@@ -2055,7 +2055,7 @@ left: -128px;
 
 .input-group-text-2 {
   position: absolute;
-  left: -103%;
+  left: -599%;
   top: 51%;
 }
 
@@ -2079,7 +2079,7 @@ left: -128px;
 
 .input-group-text-6 {
   position: absolute;
-  left: 3%;
+  left: -243%;
   top: -6%;
 }
 
@@ -2124,7 +2124,7 @@ left: -128px;
 .section-heading07 h4 {
   position: relative;
   color: #f90;
-  padding-left: 867px;
+  padding-left: 797px;
   display: flex;
   line-height: 16px;
   top: 1px;
@@ -2147,7 +2147,7 @@ left: -128px;
 .section-heading07 h4 span {
   top: 1px;
   position: absolute;
-  left: 850px;
+  left: 753px;
   transform: skew(-20deg, 0deg);
 }
 
@@ -2235,7 +2235,7 @@ left: -128px;
 }
 .gia2{
   position: relative;
-  right: -110px;
+  right: -96px;
 }
 .gia3{
   position: relative;
@@ -2249,7 +2249,7 @@ left: -128px;
 
 .gia5{
   position: relative;
-  right: -139px; 
+  right: -128px; 
 }
 
 .gia6{
@@ -2262,7 +2262,7 @@ left: -128px;
 }
 .gia8{
   position: relative;
-  right: -133px; 
+  right: -121px; 
 }
 .gia9{
 
@@ -2280,7 +2280,7 @@ left: -128px;
 }
 .gia12{
   position: relative;
-  right: -139px;   
+  right: -127px;   
 }
 .gia13{
   position: relative;
@@ -2308,6 +2308,41 @@ left: -128px;
   position: relative;
   right: -139px;
 }
+
+/* card chữ choosee taxi */
+.card-text1{
+
+  position: relative;
+  left: -47px;
+}
+
+.card-text2{
+
+  position: relative;
+  left: -64px;
+}
+
+.card-text3{
+  position: relative;
+  left: -69px;
+}
+
+.card-text4{
+  position: relative;
+  left: -70px;
+}
+
+.card-text5{
+  position: relative;
+  left: -70px;
+}
+
+.card-text6{
+  position: relative;
+  left: -70px;
+}
+
+
 
 
 
@@ -2383,7 +2418,7 @@ left: -128px;
 
 
   .nav-pills {
-    left: 806px;
+    /* left: 806px; */
     position: relative;
 
 }
@@ -2413,6 +2448,9 @@ left: -128px;
   background-color: white;
   color: #999;
   font-size: 17px;
+
+  right: -650px;
+    position: relative;
 }
 
 
@@ -4089,8 +4127,8 @@ button {
 /* thanh nav footer hotline */
 .hotline {
   position: absolute;
-  top: -11%;
-  right: -21%;
+  top: -6%;
+  right: -184px;
   background-color: #ff9900;
   padding: 10px;
   width: 700px;
@@ -4114,7 +4152,7 @@ button {
   position: absolute;
   top: 20%;
   left: 22%;
-  font-size: 20px;
+  font-size: 16px;
   /* Kích cỡ chữ */
 
   font-weight: 500;
@@ -4123,14 +4161,23 @@ button {
   margin-bottom: 5px;
 
 }
+
+
 .hotline-text1 {
-  color: rgb(20, 15, 15);
+  /* color: rgb(20, 15, 15);
   font-size: 20px;
   position: absolute;
   top: 45%;
   left: 22%;
   font-size: 30px;
-  font-weight: bold;
+  font-weight: bold; */
+  color: #222;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1;
+  position: absolute;
+  top: 45%;
+  left: 22%;
   /* Kích cỡ chữ */
   font-weight: 700;
   line-height: 1;
@@ -4393,7 +4440,7 @@ button {
   width: 100%;
   height: 308px;
   overflow: hidden;
-  top: 81px;
+  /* top: 81px; */
   position: relative;
 }
 
@@ -4556,10 +4603,10 @@ img.image-car2 {
   right: -9px;
   position: relative;
   top: 144px;
-}
+} */
 
 /* ghế thường */
-.form-handle02{
+ .form-handle02{
 
   color: white;
   background-color: #333333;
@@ -4567,7 +4614,7 @@ img.image-car2 {
   height: 48px;
   right: 1px;
     position: relative;
-    top: 145px;
+    top: 50px;
 }
 
 .form-handle0{
@@ -4599,7 +4646,7 @@ top: 118px;
   height: 48px;
 position: relative;
 right: 64px;
-top: 117px;
+top: 116px;
 
 }
 
@@ -4614,10 +4661,10 @@ top: 117px;
   position: relative;
   right: -113px;
 top: -27px;
-}
+} */
 /* chọn ngày */
 
-.form-handle110{
+ .form-handle110{
 
   color: #909090;
   background-color: #333333;
@@ -4626,10 +4673,10 @@ top: -27px;
   position: relative;
   right: -23px;
 top: 58px;
-}
+} 
 
 /* chọn giờ */
-.form-handle04{
+ .form-handle04{
 
   color: #909090;
   background-color: #333333;
@@ -4637,13 +4684,13 @@ top: 58px;
   height: 48px;
   position: relative;
   right: -293px;
-  top: -33px;
+  top: 15px;
 
 
 }
+ */
 
 
-/* 
 .btn.btn-primary {
   top: -39px;
   height: 45px;
@@ -4651,12 +4698,12 @@ top: 58px;
   right: -1335px;
   position: relative;
   color: white;
-} */
+} 
 .button1{
-  top: -124px;
+  top: -31px;
   height: 48px;
   width: 251px;
-  right: -1298px;
+  right: -1196px;
   position: relative;
   color: white;
   background-color: #333333;
@@ -4716,8 +4763,8 @@ top: 58px;
 }
 
 .icon-style01 {
-  top: -72px;
-  right: -394px;
+  top: -21px;
+  right: -621px;
   position: relative;
   font-size: 24px;
   color: #ff7f00;
