@@ -4957,6 +4957,8 @@ color: orange;
 /* phần code css số trang BOOK */
 
 #carouselExampleFade .carousel-indicators li {
+  right: -93px;
+    position: relative;
   height: auto;
   color: orange;
   background-color: transparent;
