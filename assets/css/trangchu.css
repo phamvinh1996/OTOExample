@@ -4608,13 +4608,14 @@ img.image-car2 {
 /* ghế thường */
  .form-handle02{
 
-  color: white;
+  /* color: white; */
   background-color: #333333;
   width: 251px;
   height: 48px;
   right: 1px;
     position: relative;
     top: 50px;
+
 }
 
 .form-handle0{
@@ -4703,7 +4704,7 @@ top: 58px;
   top: -75px;
   height: 48px;
   width: 251px;
-  right: -1215px;
+  right: -1298px;
   position: relative;
   color: white;
   background-color: #333333;
