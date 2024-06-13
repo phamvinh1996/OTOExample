@@ -3217,7 +3217,7 @@ h2 {
 }
 
 .custom-size02 {
-  top: 73%;
+  top: 21%;
   font-size: 82px;
   position: absolute;
   right: 438px;
@@ -3381,6 +3381,8 @@ p {
 
   width: 574px;
   height: 256px;
+  top: 35px;
+    position: relative;
 }
 
 .right-column {
