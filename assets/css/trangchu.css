@@ -3211,16 +3211,16 @@ h2 {
   top: -23px;
   font-size: 71px;
   position: relative;
-  left: -375px;
+  left: -384px;
 
 
 }
 
 .custom-size02 {
-  top: 80%;
+  top: 73%;
   font-size: 82px;
   position: absolute;
-  right: 434px;
+  right: 438px;
 }
 
 
@@ -3257,7 +3257,7 @@ h2 {
 }
 
 .section-heading101 h4 span {
-  top: 11px;
+  top: 10px;
   position: absolute;
   left: 38px;
   transform: skew(-20deg, 0deg);
@@ -3268,16 +3268,21 @@ h2 {
   content: "";
   left: -10px;
   opacity: 0.5;
+  
 }
 
 .section-heading101 h4 span:before {
   content: "";
   left: -20px;
   opacity: 0.2;
+
 }
 
-
-
+/* code loi ich dat xe heading101 */
+.chon1{
+  position: relative;
+  top: 26px;
+}
 
 
 
@@ -3372,6 +3377,10 @@ p {
   /* đường ghạch chéo màu cam */
   background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
   background-size: 10px 10px;
+
+
+  width: 574px;
+  height: 256px;
 }
 
 .right-column {
@@ -3387,7 +3396,7 @@ p {
     font-size: 30px;
     margin-top: 0;
     position: relative;
-    top: -60px;
+    top: -35px;
     left: -103px;
     font-weight: bold;
 }
@@ -4608,7 +4617,7 @@ img.image-car2 {
 /* ghế thường */
  .form-handle02{
 
-  /* color: white; */
+  color: white;
   background-color: #333333;
   width: 251px;
   height: 48px;
@@ -4665,16 +4674,31 @@ top: -27px;
 } */
 /* chọn ngày */
 
- .form-handle110{
+.form-handle110{
 
   color: #909090;
   background-color: #333333;
   width: 251px;
   height: 48px;
   position: relative;
-  right: -23px;
-top: 58px;
-} 
+  right: -284px;
+  top: 29px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* chọn giờ */
  .form-handle04{
@@ -4684,11 +4708,21 @@ top: 58px;
   width: 251px;
   height: 48px;
   position: relative;
-  right: -293px;
-  top: 15px;
+  right: -284px;
+  top: 29px;
 
 
 }
+
+/*  */
+
+
+
+
+
+
+
+
  */
 
 
@@ -4701,10 +4735,10 @@ top: 58px;
   color: white;
 } 
 .button1{
-  top: -75px;
+  top: -61px;
   height: 48px;
   width: 251px;
-  right: -1298px;
+  right: -1219px;
   position: relative;
   color: white;
   background-color: #333333;
@@ -4764,8 +4798,8 @@ top: 58px;
 }
 
 .icon-style01 {
-  top: -21px;
-  right: -395px;
+  top: -6px;
+  right: -387px;
   position: relative;
   font-size: 24px;
   color: #ff7f00;
