@@ -669,12 +669,12 @@
  <div class="section-online-booking">
   <div class="container ">
     <div class="row">
-      <div class="col-sm-5">
+      <div class="col-sm-4">
         <img src="https://web307.webvungtau.com/wp-content/themes/weboto-vn/img/car-2.png"
           class="img-car wow slideInLeft" style="animation-duration: 3s;">
       </div>
 
-      <div class="col-sm-7">
+      <div class="col-sm-8">
         <div class="section-heading06">
           <h4>
             <span></span>
@@ -688,8 +688,11 @@
 
         <form class="needs-validation" novalidate>
           <div class="form-row">
-            <div class="col-md-4 mb-3">
-              <input type="text" class="form-control1" id="validationCustom01" value="Họ Và Tên" required>
+            <div class="col-md-4">
+              <div class="form-field">
+                <input type="text" class="form-control" id="validationCustom01" placeholder="Họ và tên" value="" required>
+                <i class="las la-user-tie"></i>
+              </div>
            
           
             </div>
@@ -699,31 +702,61 @@
 
 
 
-            <div class="col-md-4 mb-3">
-              <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+            <div class="col-md-4">
+              <div class="form-field">
+                <input type="text" class="form-control" id="validationCustom02" placeholder="Email" value="" required>
+                <i class="las la-envelope-open"></i>
+              </div>
             </div>
-            <div class="col-md-4 mb-3">
-              <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+            <div class="col-md-4">
+              <div class="form-field">
+              <input type="text" class="form-control" id="validationCustom02" value="Ghế Thường" required>
+              <i class="las la-tags"></i>
             </div>
-            <div class="col-md-4 mb-3">
-              <input type="text" class="form-control" id="validationCustom03" required>
             </div>
-            <div class="col-md-4 mb-3">
-              <select class="custom-select" id="validationCustom04" required>
-                <option selected disabled value="">Choose...</option>
-                <option>...</option>
-              </select>
+            <div class="col-md-4">
+              <div class="form-field">
+              <input type="text" class="form-control" id="validationCustom03" value="-Số Lượng-" required>
+              <i class="las la-user-friends"></i>
             </div>
-            <div class="col-md-4 mb-3">
-              <input type="text" class="form-control" id="validationCustom05" required>
             </div>
-            <div class="col-md-4 mb-3">
-              <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+            <div class="col-md-4">
+              <div class="form-field">
+                <input type="text" class="form-control" id="validationCustom03" placeholder="Bắt Đầu" required>
+                <i class="las la-map-marker"></i>
+              <!-- <select class="custom-select form-control" id="validationCustom04"  value="" required>
+                <option selected disabled  > Bắt Đầu </option> -->
+             
+          </select>
+             </div> 
             </div>
-            <div class="col-md-4 mb-3">
-              <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+            <div class="col-md-4">
+              <div class="form-field">
+              <input type="text" class="form-control" id="validationCustom05"placeholder="Kết Thúc" required>
+              <i class="las la-map-marker"></i>
             </div>
-            <div class="col-md-4 mb-3">
+            </div>
+            <div class="col-md-4">
+              <div class="form-field">
+              <!-- <input type="text" class="form-control" id="validationCustom02" placeholder="Chọn Ngày" required> -->
+
+              <input type="text" id="datepicker" class="form-control" id="validationCustom02" placeholder="Chọn ngày">
+
+              <i class="las la-calendar"></i>
+           
+
+           
+            </div>
+            </div>
+            <div class="col-md-4">
+              <div class="form-field">
+              <!-- <input type="text" class="form-control" id="validationCustom02" placeholder="Chọn Giờ" required> -->
+              <input id="timepicker" id="datepicker" class="form-control" id="validationCustom02" placeholder="Chọn Giờ">
+              <i class="   las la-clock"></i>
+           
+            </div>
+            </div>
+            <div class="col-md-4">
               <button class="btn btn-primary w-100" type="button">Submit form</button>
             </div>
           </div>
