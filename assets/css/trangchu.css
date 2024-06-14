@@ -1951,6 +1951,7 @@ left: -128px;
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
+  top: -49px;
 }
 
 .section-heading06 h4 span,
@@ -1984,9 +1985,11 @@ left: -128px;
 }
 
 .section-online-booking h3 {
+  left: -328px;
   font-size: 30px;
   position: relative;
   color: #e8dede;
+  top: -28px;
   /* Màu chữ trắng */
 }
 
