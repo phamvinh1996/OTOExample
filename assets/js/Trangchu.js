@@ -1,7 +1,7 @@
 /* hiệu ứng website */
 window.addEventListener('load', function() {
   setTimeout(function() {
-      var loading = document.getElementById('loading');
+      var loading = document.getElementById('loading-wrapper');
       loading.style.display = 'none';
   }, 1000); // Đặt thời gian trễ 1 giây (1000ms) trước khi ẩn phần tử loading và hiển thị kết quả
   
