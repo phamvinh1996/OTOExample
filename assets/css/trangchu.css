@@ -2640,10 +2640,10 @@ left: -128px;
   .btn.btn-primary1 {
     background-color:orange ;
     height: 47px;
-    width: 262px;
+    width: 305px;
     position: relative;
-    left: 12px;
-    top: 34px;
+    left: -7px;
+    top: 70px;
     
     /* Thêm màu nền đen khi hover */
     background-color: orange;
@@ -3570,22 +3570,25 @@ p {
 }
 
 .company-info01 {
-  right: -64px;
+  right: -75px;
   color: white;
   position: relative;
   top: -37px;
+  font-size: 16px;
 }
 .company-info02{
   right: -60px;
   color: white;
   position: relative;
   top: -27px;
+  font-size: 16px;
 }
 .company-info03{
   right: -65px;
   color: white;
   position: relative;
   top: -27px;
+  font-size: 16px;
 }
 /* code hon 1000 kh tiet kiem chi phi */
 
