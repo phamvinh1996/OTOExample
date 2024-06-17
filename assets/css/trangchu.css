@@ -2219,12 +2219,12 @@ left: -128px;
 
 .section-online-booking .form-control option {
   background-color: #333;
-  color: orange;
+  color: white;
 }
 
 .section-online-booking .form-control option:hover {
   background-color: #f90;
-  color: white;
+  
 }
 
 
