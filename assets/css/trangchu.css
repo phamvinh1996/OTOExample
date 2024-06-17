@@ -2181,8 +2181,8 @@ left: -128px;
   border-color: #f90;
   outline: 0;
   box-shadow: none;
-  color: white;
-  background-color: orange;
+  color: orange;
+  background-color: #333333;
 
 
 }
