@@ -1192,6 +1192,7 @@ img {
   padding-left: 50px;
   display: flex;
   line-height: 16px;
+  top: -20px;
 }
 
 .section-heading h4 span,
