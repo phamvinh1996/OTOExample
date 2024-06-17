@@ -1251,6 +1251,16 @@ img {
 }
 
 
+/* về chúng tôi  tổng phần chữ*/
+
+.form-group {
+  right: -43px;
+  top: 118px;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+
 
 
 
@@ -2181,7 +2191,7 @@ left: -128px;
   border-color: #f90;
   outline: 0;
   box-shadow: none;
-  color: orange;
+  color: white;
   background-color: #333333;
 
 
@@ -2192,9 +2202,52 @@ left: -128px;
   padding-right: 10px;
   margin-bottom: 20px;
 
+} 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+.section-online-booking .form-control option {
+  background-color: #333;
+  color: orange;
 }
+
+.section-online-booking .form-control option:hover {
+  background-color: #f90;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* button đặt xe nhanh */
