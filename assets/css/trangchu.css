@@ -2562,6 +2562,16 @@ left: -128px;
 
 
 
+/* choossee taxi */
+/* card right taxi */
+.card {
+  right: -63px;
+  position: absolute;
+  top: 10px;
+  width: 365px;
+}
+
+
 
 
 
