@@ -2782,10 +2782,10 @@ top: 130px;
 .card-title02{
 
   position: relative;
-  top: 17px;
-  right: -48px;
+  top: 25px;
+  right: -15px;
   font-weight: bold;
-
+color: #000;
 }
 
  /* toyota taxi  */
@@ -2800,14 +2800,16 @@ top: 130px;
 }
  /* phan cuoi toyota choosse card */
 .card-title6{
-  left: 23px;
+  left: 9px;
   position: relative;
-  top: 17px;
+  top: 25px;
+  color: #000;
 }
 .card-title7{
-  left: 23px;
+  left: 13px;
   position: relative;
-  top: 17px;
+  top: 25px;
+  color: #000;
 }
 
 
