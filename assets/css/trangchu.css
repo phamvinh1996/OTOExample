@@ -2217,15 +2217,13 @@ left: -128px;
 
 
 
-.section-online-booking .form-control option {
-  background-color: #333;
-  color: white;
-}
 
-.section-online-booking .form-control option:hover {
-  background-color: #f90;
-  
-}
+
+
+
+
+
+
 
 
 
@@ -4065,7 +4063,7 @@ top: 145px;
 
 .img-car {
 
-  left: 200px;
+  left: 26px;
   position: relative;
   width: 489px;
   /* Đặt chiều rộng hình ảnh thành 200 pixel */
@@ -4364,7 +4362,7 @@ button {
 .hotline {
   position: absolute;
   top: -6%;
-  right: -184px;
+  right: -271px;
   background-color: #ff9900;
   padding: 10px;
   width: 700px;
@@ -4617,7 +4615,7 @@ button {
   cursor: pointer;
   width: 130px;
   height: 50px;
-  top: 75%;
+  top: 59%;
   left: 5%;
   position: absolute;
   clip-path: polygon(0 0, 100% 0, 100% 80%, 80% 100%, 0 100%);
